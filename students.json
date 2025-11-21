@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "grades": {
+        "math": 92,
+        "english": 88,
+        "science": 94,
+        "history": 85
+      },
+      "average": 89.75
+    },
+    {
+      "id": 2,
+      "name": "Benjamin Lee",
+      "grades": {
+        "math": 78,
+        "english": 82,
+        "science": 80,
+        "history": 75
+      },
+      "average": 78.75
+    },
+    {
+      "id": 3,
+      "name": "Christina Martinez",
+      "grades": {
+        "math": 95,
+        "english": 91,
+        "science": 89,
+        "history": 93
+      },
+      "average": 92
+    },
+    {
+      "id": 4,
+      "name": "Daniel Kim",
+      "grades": {
+        "math": 84,
+        "english": 76,
+        "science": 88,
+        "history": 90
+      },
+      "average": 84.5
+    }
+  ]
+}
